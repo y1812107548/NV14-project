@@ -6,6 +6,12 @@
     </nav>
 
 
+
+
+
+
+
+
     
     <router-view />
   </div>
