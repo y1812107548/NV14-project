@@ -9,9 +9,6 @@
 
     <router-view />
 
-
-
-    
   </div>
 </template>
 
